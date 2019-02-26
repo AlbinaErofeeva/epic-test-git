@@ -13,5 +13,8 @@ body{
 }
 .news{
   display: inline-flex;
-  
+}
+.add{
+  width: 50px;
+  border: 10px solid #000;
 }
